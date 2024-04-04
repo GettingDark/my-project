@@ -1,1 +1,3 @@
 text test
+
+This file was modified in the feature files.
